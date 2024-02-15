@@ -34,7 +34,7 @@ def read_list(file_name):
         n_list = pickle.load(fp)
         return n_list
     
-
+write_list([], 'article_db')
 
 GOOGLE_API_KEY='AIzaSyCM6uvTNlCY3yQOj89VYxeTXSnn-19Tns0'
 
