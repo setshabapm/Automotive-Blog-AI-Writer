@@ -112,4 +112,4 @@ while True:
 
             driver.get(url_articles)
 
-            sleep(300)
+            sleep(5)
